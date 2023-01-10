@@ -127,4 +127,45 @@ color:rgba(255, 255, 255, 0.6);
 .footer-inform:hover,
 .footer-inform:focus {
     color:#FFFFFF ;
+
+}
+/* Portfolio Page*/
+.types-btn{
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+background-color: #2196f3;
+}
+.types-btn:hover,
+.types-btn:focus{
+    background-color: #9ccdf5;
+}
+.projects-types{
+    font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.section-types{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.87;
+letter-spacing: 0.03em;
+
+color: #757575;
+
+}
+.bg-color{
+    
+background-color: #2F303A;
 }
