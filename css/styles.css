@@ -1,6 +1,8 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #212121;
+  font-weight: 400;
+font-size: 14px;
 }
 /* цвет основного текста  #212121 */
 /* вторичный цвет #757575 */
@@ -168,4 +170,7 @@ color: #757575;
 .bg-color{
     
 background-color: #2F303A;
+}
+.active{
+   color: #2196f3;
 }
